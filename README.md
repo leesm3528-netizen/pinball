@@ -10,7 +10,7 @@
 |---|---|
 | 학습 일자 | 2026-10-07 |
 | 학습 주제 | HTML5 웹게임(핀볼) 제작 → GitHub 업로드 → GitHub Pages 배포 |
-| 사용 도구 | HTML / CSS / JavaScript (Canvas API, Web Audio API), Git, GitHub CLI(`gh`), GitHub Pages, Claude Code |
+| 사용 도구 | HTML / CSS / JavaScript (Canvas API, Web Audio API), Git, GitHub CLI(`gh`), GitHub Pages |
 | 결과물 | `index.html` (한 파일로 된 핀볼 게임), 배포된 웹사이트 |
 
 ---
